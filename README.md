@@ -1,16 +1,23 @@
-## Hi there 👋
+<div dsplay="inline-block">
+ <h1 align="left">Mateus Henrique </h1>
+  <a href="https://www.linkedin.com/in/mateus-lima-49663a206/">
+    <img width="60px" src="https://cdn-icons-png.freepik.com/512/3991/3991775.png?ga=GA1.1.111822682.1742532781" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 
-<!--
-**mateush888132/mateush888132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World!, tenho 22 anos atualmente estou estudando Análise e desenvolvimento de sistemas e busco me aprimorar em back-end.
 
-Here are some ideas to get you started:
+<h1>Tecnologias e Ferramentas</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" title = "CSHARP"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" title = "PYTHON"/></code>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateush888132&show_icons=true&theme=dark&locale=en&layout=compact" alt="mateush888132"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mateush888132&show_icons=true&theme=dracula&locale=en&hide=prs,stars"
+   alt="mateush888132"/>
