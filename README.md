@@ -18,6 +18,6 @@ Hello World!, tenho 22 anos atualmente estou estudando Análise e desenvolviment
 <br>
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateush888132&show_icons=true&theme=dark&locale=en&layout=compact" alt="mateush888132"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mateush888132&show_icons=true&theme=dracula&locale=en&hide=prs,stars"
-   alt="mateush888132"/>
+<a href="https://github.com/mateush888132">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mateush888132&show_icons=true&theme=radical"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mateush888132&show_icons=true&theme=transparent"/>
